@@ -1,4 +1,4 @@
-# Simple-Python-Code-Obfuscation
+# A simple obfuscator with python
 
 **Why did I do this?**
 
